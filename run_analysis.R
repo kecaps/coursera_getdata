@@ -4,7 +4,7 @@ remote <- "https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20
 
 # assignment directions say this should run in the current working directory
 local_directory <- "."
-local_directory <- "/tmp/getdata"
+# local_directory <- "/tmp/getdata"
 
 local_zip <- file.path(local_directory, "dataset.zip")
 if (!dir.exists(local_directory)) {
