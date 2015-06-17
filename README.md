@@ -4,6 +4,8 @@ This repository has the R code for accessing and tidying the data gathered from 
 the Samsung Galaxy S smartphone.  A description of the original dataset may be found here:
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones.
 
+This project depends on the dplyr package.
+
 ## Acquiring data
 
 The first step of the script is to acquire the data. The original dataset was found on the web 
