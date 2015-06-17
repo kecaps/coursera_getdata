@@ -129,4 +129,3 @@ The set of variables that averaged from these signals are:
 | 66 | fBodyBodyGyroMag-std() | | 
 | 67 | fBodyBodyGyroJerkMag-mean() | |
 | 68 | fBodyBodyGyroJerkMag-std() | |
-|--|---|---|
